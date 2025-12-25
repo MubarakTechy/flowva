@@ -1,0 +1,7 @@
+{
+  "name": "Flowva - Productivity & Rewards",
+  "description": "A premium productivity platform for freelancers and creators that rewards focus and task completion with real-world benefits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
