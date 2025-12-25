@@ -13,12 +13,10 @@ The goal of this implementation is to closely match the original UI and behavior
 Live Demo
 
  Live URL:
-<!-- https://your-deployed-link.vercel.app -->
-(Replace with your actual deployment link)
+     https://flowva-eight.vercel.app/
 
  GitHub Repository:
 <!-- https://github.com/your-username/flowva-rewards -->
-(Replace with your repo link)
 
 
 Tech Stack
