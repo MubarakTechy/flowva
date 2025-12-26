@@ -11,6 +11,7 @@ import Community from './pages/Community';
 import FAQ from './pages/FAQ';
 import Footer from './components/Footer';
 import Auth from './pages/Auth';
+import { BrowserRouter } from 'react-router-dom';
 
 const App: React.FC = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -25,6 +26,8 @@ const App: React.FC = () => {
 
   return (
     <Router>
+      <BrowserRouter basename="/">
+
       <div className="flex flex-col min-h-screen">
         <Navbar isScrolled={isScrolled} />
         <main className="flex-grow pt-20">
