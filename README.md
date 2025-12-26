@@ -13,11 +13,10 @@ The goal of this implementation is to closely match the original UI and behavior
 Live Demo
 
  Live URL:
-     https://flowva-eight.vercel.app/
+        https://flowva-three.vercel.app/
 
  GitHub Repository:
-<!-- https://github.com/your-username/flowva-rewards -->
-
+      (https://github.com/MubarakTechy/flowva)
 
 Tech Stack
 
@@ -57,8 +56,6 @@ Authentication Flow:
     Clear feedback for actions (success, error, and loading states)
 
 
-
-
 Project Structure
    src/
 │
@@ -79,8 +76,6 @@ Project Structure
 ├── App.tsx
 └── main.tsx
 Setup Instructions
-
-
 
 
 
